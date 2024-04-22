@@ -1,0 +1,13 @@
+/* Google Font Mulish */
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+/* Google Font Inter */
+.font-mulish {
+    font-family: "Mulish", sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+.font-inter {
+    font-family: "Inter", sans-serif;
+}
