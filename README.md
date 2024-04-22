@@ -6,25 +6,16 @@
 
 This is a retro-style forum website where users can view and post about various topics.
 
-## APIs
-
-I utilized the following APIs for this project:
-
-- **LatestPosts:** [https://openapi.programming-hero.com/api/retro-forum/latest-posts](https://openapi.programming-hero.com/api/retro-forum/latest-posts)
-- **AllPosts:** [https://openapi.programming-hero.com/api/retro-forum/posts](https://openapi.programming-hero.com/api/retro-forum/posts)
-- **PostSearchByQuery:** [https://openapi.programming-hero.com/api/retro-forum/posts?category=categoryName](https://openapi.programming-hero.com/api/retro-forum/posts?category=categoryName)
 
 ### Example
 
-To search for posts in the "coding" category, you would use the following URL:
-[https://openapi.programming-hero.com/api/retro-forum/posts?category=coding](https://openapi.programming-hero.com/api/retro-forum/posts?category=coding)
-
+To search for posts in the "coding" category
 ## Technologies Used
 
 This project was built using the following technologies:
 
 - **HTML**
-- **CSS** (utilizing Tailwind CSS and DaisyUI)
+- **CSS** (utilizing Tailwind CSS)
 - **JavaScript**
 
 ## Responsive Design
